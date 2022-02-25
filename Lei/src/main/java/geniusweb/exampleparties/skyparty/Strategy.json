@@ -1,0 +1,13 @@
+{
+  "selfish": {
+    "selfish": 0.5,
+    "fortunate": 0.3,
+    "nice": 0.2
+  },
+  "fortunate": {},
+  "silent": {},
+  "nice": {},
+  "concession":{}
+
+
+}

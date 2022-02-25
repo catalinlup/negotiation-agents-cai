@@ -1,0 +1,24 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-15.0.1\bin\javadoc.exe" @options @packages"
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\allclasses-index.html = 1645534465521
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\allpackages-index.html = 1645534465523
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\constant-values.html = 1645534465426
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\deprecated-list.html = 1645534465453
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\element-list = 1645534465407
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\help-doc.html = 1645534465527
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\index-all.html = 1645534465516
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\index.html = 1645534465525
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\jquery-ui.overrides.css = 1645534465955
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\member-search-index.js = 1645534465514
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\module-search-index.js = 1645534465488
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\options = 1645534463429
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\overview-tree.html = 1645534465448
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\package-search-index.js = 1645534465503
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\packages = 1645534463431
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\script.js = 1645534465599
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\search.js = 1645534465615
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\stylesheet.css = 1645534465574
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\tag-search-index.js = 1645534465515
+C:\Users\ziang\Desktop\GeniusWeb\target\apidocs\type-search-index.js = 1645534465505

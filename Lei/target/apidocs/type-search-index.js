@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"geniusweb.exampleparties.skyparty","l":"MyProfile"},{"p":"geniusweb.exampleparties.skyparty","l":"OpponentModel"},{"p":"geniusweb.exampleparties.skyparty","l":"Party59"}];updateSearchResults();
