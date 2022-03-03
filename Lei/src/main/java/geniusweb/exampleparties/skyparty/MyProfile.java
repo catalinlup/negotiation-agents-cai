@@ -13,6 +13,7 @@ import java.util.*;
 
 
 public class MyProfile {
+    private  Profile profile;
     private Domain domain;
     private AllPartialBidsList bidList;
     private Bid reservationBid;
@@ -31,6 +32,7 @@ public class MyProfile {
         this.reservationBid = profile.getReservationBid();
         double tempBest = utilitySpace.getUtility(this.reservationBid).doubleValue();
         this.maxBid = this.reservationBid;
+        this.profile = profile;
         if (profile instanceof UtilitySpace) {
             this.reservationBidValue =  utilitySpace.getUtility(this.reservationBid).doubleValue();
             int total = this.bidList.size().intValue();
@@ -60,6 +62,8 @@ public class MyProfile {
     public Bid getMaxBid(){
         return this.maxBid;
     }
+
+    public Profile getProfile() {return this.profile;}
 
     public Bid getReservationBid() {
         return this.reservationBid;

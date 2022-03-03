@@ -235,7 +235,8 @@ public class Party59 extends DefaultParty {
 	 * @return 0 is selfish, 1 is fortunate, 2 is silent, 3 is nice, 4 is concession, other 5
 	 */
 	private int bidType(Bid bid) {
-		UtilitySpace utilitySpace = (UtilitySpace) profile;
+		if(bid == null) return 5;
+		UtilitySpace utilitySpace = (UtilitySpace) profile.getProfile();
 		double opponentU = opponentModel.calculateUtility(bid);
 		double myU = utilitySpace.getUtility(bid).doubleValue();
 		double opponentLastU = opponentModel.calculateUtility(opponentModel.getLastBid());
