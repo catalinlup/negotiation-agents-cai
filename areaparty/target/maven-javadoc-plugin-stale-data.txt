@@ -1,0 +1,67 @@
+/usr/lib/jvm/java-11-amazon-corretto/bin/javadoc
+@options
+@packages
+-classpath
+'/home/mikkel/.m2/repository/geniusweb/party/2.1.0/party-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/timeline/2.1.0/timeline-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/profile/2.1.0/profile-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/issuevalue/2.1.0/issuevalue-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/events/2.1.0/events-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/references/2.1.0/references-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/bidspace/2.1.0/bidspace-2.1.0.jar:/home/mikkel/.m2/repository/geniusweb/profileconnection/2.1.0/profileconnection-2.1.0.jar:/home/mikkel/.m2/repository/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar:/home/mikkel/.m2/repository/tudelft/utilities/logging/1.0.1/logging-1.0.1.jar:/home/mikkel/.m2/repository/tudelft/utilities/utilities/1.1.1/utilities-1.1.1.jar:/home/mikkel/.m2/repository/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/mikkel/repositories/cai/areaparty/src/main/java:/home/mikkel/repositories/cai/areaparty/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/mikkel/repositories/cai/areaparty/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'areaparty 2.1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/9/docs/api' '/home/mikkel/repositories/cai/areaparty/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'areaparty 2.1.0 API'
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+geniusweb.exampleparties.areaparty
+/home/mikkel/.m2/repository/geniusweb/party/2.1.0/party-2.1.0.jar = 1646385428374
+/home/mikkel/.m2/repository/geniusweb/timeline/2.1.0/timeline-2.1.0.jar = 1646385428426
+/home/mikkel/.m2/repository/geniusweb/profile/2.1.0/profile-2.1.0.jar = 1646385428454
+/home/mikkel/.m2/repository/geniusweb/issuevalue/2.1.0/issuevalue-2.1.0.jar = 1646385428438
+/home/mikkel/.m2/repository/geniusweb/events/2.1.0/events-2.1.0.jar = 1646385428454
+/home/mikkel/.m2/repository/geniusweb/references/2.1.0/references-2.1.0.jar = 1646385428418
+/home/mikkel/.m2/repository/geniusweb/bidspace/2.1.0/bidspace-2.1.0.jar = 1646385428466
+/home/mikkel/.m2/repository/geniusweb/profileconnection/2.1.0/profileconnection-2.1.0.jar = 1646385428470
+/home/mikkel/.m2/repository/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar = 1644690390893
+/home/mikkel/.m2/repository/tudelft/utilities/logging/1.0.1/logging-1.0.1.jar = 1644690391009
+/home/mikkel/.m2/repository/tudelft/utilities/utilities/1.1.1/utilities-1.1.1.jar = 1644690391017
+/home/mikkel/.m2/repository/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar = 1646308349860
+/home/mikkel/repositories/cai/areaparty/src/main/java = 1644690021790
+/home/mikkel/repositories/cai/areaparty/target/generated-sources/annotations = 1646385429074
+/home/mikkel/repositories/cai/areaparty/target/apidocs/search.js = 1646385433790
+/home/mikkel/repositories/cai/areaparty/target/apidocs/allclasses.html = 1646385433782
+/home/mikkel/repositories/cai/areaparty/target/apidocs/element-list = 1646385433718
+/home/mikkel/repositories/cai/areaparty/target/apidocs/type-search-index.zip = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/index-all.html = 1646385433774
+/home/mikkel/repositories/cai/areaparty/target/apidocs/member-search-index.zip = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/help-doc.html = 1646385433786
+/home/mikkel/repositories/cai/areaparty/target/apidocs/stylesheet.css = 1646385433786
+/home/mikkel/repositories/cai/areaparty/target/apidocs/package-search-index.zip = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/type-search-index.js = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/allclasses-index.html = 1646385433778
+/home/mikkel/repositories/cai/areaparty/target/apidocs/constant-values.html = 1646385433734
+/home/mikkel/repositories/cai/areaparty/target/apidocs/member-search-index.js = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/deprecated-list.html = 1646385433782
+/home/mikkel/repositories/cai/areaparty/target/apidocs/script.js = 1646385433786
+/home/mikkel/repositories/cai/areaparty/target/apidocs/overview-tree.html = 1646385433758
+/home/mikkel/repositories/cai/areaparty/target/apidocs/allpackages-index.html = 1646385433778
+/home/mikkel/repositories/cai/areaparty/target/apidocs/package-search-index.js = 1646385433770
+/home/mikkel/repositories/cai/areaparty/target/apidocs/index.html = 1646385433782
