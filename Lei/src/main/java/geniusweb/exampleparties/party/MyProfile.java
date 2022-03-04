@@ -1,6 +1,7 @@
-package geniusweb.exampleparties.skyparty;
+package geniusweb.exampleparties.party;
 
 import geniusweb.bidspace.AllPartialBidsList;
+import geniusweb.exampleparties.party.OpponentModel;
 import geniusweb.issuevalue.Bid;
 import geniusweb.issuevalue.Domain;
 import geniusweb.profile.Profile;
@@ -49,11 +50,11 @@ public class MyProfile {
         this.acceptableBid.add(maxBid);
 
         //The order in the strategy: selfish, fortunate, silent, nice, concession
-        this.strategy.put("selfish", new ArrayList(Arrays.asList(0.0,0.0,0.0,0.0,0.0)));
-        this.strategy.put("fortunate", new ArrayList(Arrays.asList(0.0,0.0,0.0,0.0,0.0)));
-        this.strategy.put("silent", new ArrayList(Arrays.asList(0.0,0.0,0.0,0.0,0.0)));
-        this.strategy.put("nice", new ArrayList(Arrays.asList(0.0,0.0,0.0,0.0,0.0)));
-        this.strategy.put("concession", new ArrayList(Arrays.asList(0.0,0.0,0.0,0.0,0.0)));
+        this.strategy.put("selfish", new ArrayList(Arrays.asList(0.1,0.1,0.2,0.2,0.4)));
+        this.strategy.put("fortunate", new ArrayList(Arrays.asList(0.2,0.3,0.1,0.2,0.1)));
+        this.strategy.put("silent", new ArrayList(Arrays.asList(0.2,0.2,0.2,0.2,0.2)));
+        this.strategy.put("nice", new ArrayList(Arrays.asList(0.1,0.2,0.2,0.4,0.1)));
+        this.strategy.put("concession", new ArrayList(Arrays.asList(0.4,0.2,0.1,0.2,0.1)));
 
 
 

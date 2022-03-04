@@ -1,4 +1,4 @@
-package geniusweb.exampleparties.skyparty;
+package geniusweb.exampleparties.party;
 
 
 import geniusweb.bidspace.IssueInfo;

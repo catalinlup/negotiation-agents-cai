@@ -175,7 +175,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>geniusweb.exampleparties.skyparty.Party59</mainClass>
+							<mainClass>geniusweb.exampleparties.party.Party59</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
@@ -229,7 +229,7 @@
 						<manifest>
 							<addDefaultImplementationEntries>true</addDefaultImplementationEntries>
 							<addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-							<mainClass>geniusweb.exampleparties.skyparty.Party59</mainClass>
+							<mainClass>geniusweb.exampleparties.party.Party59</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

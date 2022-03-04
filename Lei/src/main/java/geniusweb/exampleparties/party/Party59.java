@@ -1,4 +1,4 @@
-package geniusweb.exampleparties.skyparty;
+package geniusweb.exampleparties.party;
 
 import java.io.IOException;
 import java.util.Arrays;
